@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F486507E-D064-4337-B599-F36455360B91}|..\\LoanManagementSystem.BusinessLayer\\LoanManagementSystem.BusinessLayer.csproj|d:\\microsoft visual studio\\loan management system\\loanmanagementsystem.businesslayer\\repository\\iloanrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4750DC77-6521-4B6A-9484-4B31E3B7E6D8}|LoanManagementSystem.UI.csproj|D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.UI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4750DC77-6521-4B6A-9484-4B31E3B7E6D8}|LoanManagementSystem.UI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623838EE-18AF-462B-8ED2-1ABAD3616A3D}|..\\LoanManagementSystem.Util\\LoanManagementSystem.Util.csproj|d:\\microsoft visual studio\\loan management system\\loanmanagementsystem.util\\dbconnectionutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486507E-D064-4337-B599-F36455360B91}|..\\LoanManagementSystem.BusinessLayer\\LoanManagementSystem.BusinessLayer.csproj|d:\\microsoft visual studio\\loan management system\\loanmanagementsystem.businesslayer\\services\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486507E-D064-4337-B599-F36455360B91}|..\\LoanManagementSystem.BusinessLayer\\LoanManagementSystem.BusinessLayer.csproj|d:\\microsoft visual studio\\loan management system\\loanmanagementsystem.businesslayer\\services\\carloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486507E-D064-4337-B599-F36455360B91}|..\\LoanManagementSystem.BusinessLayer\\LoanManagementSystem.BusinessLayer.csproj|d:\\microsoft visual studio\\loan management system\\loanmanagementsystem.businesslayer\\services\\homeloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnectionUtil.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.Util\\DBConnectionUtil.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem.Util\\DBConnectionUtil.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.Util\\DBConnectionUtil.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem.Util\\DBConnectionUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:46:35.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILoanRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Repository\\ILoanRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem.BusinessLayer\\Repository\\ILoanRepositoryImpl.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Repository\\ILoanRepositoryImpl.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem.BusinessLayer\\Repository\\ILoanRepositoryImpl.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:43:39.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Services\\Loan.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem.BusinessLayer\\Services\\Loan.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Services\\Loan.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem.BusinessLayer\\Services\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:22:33.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarLoan.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Services\\CarLoan.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem.BusinessLayer\\Services\\CarLoan.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Services\\CarLoan.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem.BusinessLayer\\Services\\CarLoan.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:21:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeLoan.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Services\\HomeLoan.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem.BusinessLayer\\Services\\HomeLoan.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.BusinessLayer\\Services\\HomeLoan.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem.BusinessLayer\\Services\\HomeLoan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:16:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Loan Management System\\LoanManagementSystem.UI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwDsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:13:33.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+D:\Microsoft Visual Studio\Loan Management System\LoanManagement.Entity\bin\Debug\LoanManagement.Entity.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagement.Entity\bin\Debug\LoanManagement.Entity.pdb
+D:\Microsoft Visual Studio\Loan Management System\LoanManagement.Entity\obj\Debug\LoanManagement.Entity.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Loan Management System\LoanManagement.Entity\obj\Debug\LoanManagement.Entity.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Loan Management System\LoanManagement.Entity\obj\Debug\LoanManagement.Entity.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagement.Entity\obj\Debug\LoanManagement.Entity.pdb

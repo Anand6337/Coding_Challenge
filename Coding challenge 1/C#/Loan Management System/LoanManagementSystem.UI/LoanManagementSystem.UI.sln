@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.UI", "LoanManagementSystem.UI.csproj", "{4750DC77-6521-4B6A-9484-4B31E3B7E6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagement.Entity", "..\LoanManagement.Entity\LoanManagement.Entity.csproj", "{62920618-63F6-4928-A6C0-1D4184057E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.BusinessLayer", "..\LoanManagementSystem.BusinessLayer\LoanManagementSystem.BusinessLayer.csproj", "{F486507E-D064-4337-B599-F36455360B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Util", "..\LoanManagementSystem.Util\LoanManagementSystem.Util.csproj", "{623838EE-18AF-462B-8ED2-1ABAD3616A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Exception", "..\LoanManagementSystem.Exception\LoanManagementSystem.Exception.csproj", "{974B2CA8-CC49-4D35-B2A3-C3D9E87B9410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4750DC77-6521-4B6A-9484-4B31E3B7E6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4750DC77-6521-4B6A-9484-4B31E3B7E6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4750DC77-6521-4B6A-9484-4B31E3B7E6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4750DC77-6521-4B6A-9484-4B31E3B7E6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62920618-63F6-4928-A6C0-1D4184057E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62920618-63F6-4928-A6C0-1D4184057E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62920618-63F6-4928-A6C0-1D4184057E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62920618-63F6-4928-A6C0-1D4184057E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F486507E-D064-4337-B599-F36455360B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F486507E-D064-4337-B599-F36455360B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F486507E-D064-4337-B599-F36455360B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F486507E-D064-4337-B599-F36455360B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623838EE-18AF-462B-8ED2-1ABAD3616A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623838EE-18AF-462B-8ED2-1ABAD3616A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623838EE-18AF-462B-8ED2-1ABAD3616A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623838EE-18AF-462B-8ED2-1ABAD3616A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974B2CA8-CC49-4D35-B2A3-C3D9E87B9410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974B2CA8-CC49-4D35-B2A3-C3D9E87B9410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974B2CA8-CC49-4D35-B2A3-C3D9E87B9410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974B2CA8-CC49-4D35-B2A3-C3D9E87B9410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C4C5AE-2E76-44B8-BCEF-75A1B78F6E0E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.UI.exe.config
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.UI.exe
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.UI.pdb
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\obj\Debug\LoanManagementSystem.UI.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\obj\Debug\LoanManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\obj\Debug\LoanMana.B1BCCF78.Up2Date
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\obj\Debug\LoanManagementSystem.UI.exe
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\obj\Debug\LoanManagementSystem.UI.pdb
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagement.Entity.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.BusinessLayer.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.Exception.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.Util.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagement.Entity.pdb
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.BusinessLayer.pdb
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.Exception.pdb
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.UI\bin\Debug\LoanManagementSystem.Util.pdb
